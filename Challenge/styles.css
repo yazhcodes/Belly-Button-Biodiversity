@@ -1,0 +1,58 @@
+body {
+    background-color: #91667b;
+    font-family: 'Arima Madurai', cursive;
+}
+
+.jumbotron {
+    background-image: url('https://images.unsplash.com/photo-1585057638670-98226d968ee5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1512&q=80');
+    border-radius: 0 !important;
+}
+
+.jumbotron h1{
+    font-family: 'Luckiest Guy', cursive;
+    letter-spacing: 0.25rem;
+}
+
+#selDataset {
+    margin: 13px auto;
+    width: 20rem;
+    height: 5rem;
+    font-size: xx-large;
+    color: #1f181b;
+    background-color: darkgray;
+}
+
+.well {
+    padding-top: 1px;
+    background-color: #1f181b;
+    border: none;
+    color: darkgray;
+    font-family: 'Arima Madurai', cursive;
+    height: 150px;
+}
+
+.panel {
+    background-color: #3b3136;
+    border: none;
+    color: darkgray;
+    height: 150px;
+}
+
+.panel-heading {
+    background-color: #1f181b !important;
+    border: none;
+    color: darkgray !important;
+}
+
+.panel-title {
+    font-size: x-large;
+}
+
+.panel-body {
+    padding-bottom: 0 !important;
+}
+
+.chart-title {
+    text-align: center;
+    padding: 0;
+}
